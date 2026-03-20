@@ -142,9 +142,6 @@ else:
 
 ![App UI Screenshot](images/App-ss.png)
 
-1. Main interface with input area
-2. Sample analysis results
-3. Sentiment analysis output
 
 ## Future Enhancements
 
